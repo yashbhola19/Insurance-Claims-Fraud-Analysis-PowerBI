@@ -10,14 +10,11 @@ An interactive Power BI dashboard designed to analyze insurance claims, identify
 
 ## Dashboard Preview
 
-### Page 1 – Insurance Claims Overview
-![Dashboard Overview](Dashboard_Overview.png)
+## Page 1 – Insurance Claims Overview
 
-### Page 2 – Fraud & Risk Analysis
-![Fraud Risk Analysis](Fraud_Risk_Analysis.png)
+## Page 2 – Fraud & Risk Analysis
 
-### Page 3 – Business Insights & Recommendations
-![Business Insights](Business_Insights.png)
+## Page 3 – Business Insights & Recommendations
 
 ## Key Findings
 - Total Claims: 1,000
